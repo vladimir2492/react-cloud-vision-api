@@ -4,6 +4,11 @@
     "request": "^2.67.0",
     "underscore": "^1.8.3"
   },
+  "author": "Vladimir Hovsepyan <vladimirhovsepyan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimir2492/react-cloud-vision-api.git"
+  },
   "devDependencies": {},
   "directories": {},
   "main": "index.js",
