@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "googleapis": "^2.1.7",
+    "react-native-fs": "^2.3.3",
     "request": "^2.67.0",
     "underscore": "^1.8.3"
   },
