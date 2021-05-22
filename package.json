@@ -5,7 +5,7 @@
     "request": "^2.67.0",
     "underscore": "^1.8.3"
   },
-  "author": "Vladimir Hovsepyan <vladimirhovsepyan@gmail.com>",
+  "author": "ROOT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vladimir2492/react-cloud-vision-api.git"
@@ -13,10 +13,10 @@
   "devDependencies": {},
   "directories": {},
   "main": "index.js",
-  "name": "react-cloud-vision-api",
+  "name": "react-cloud-vision-api-ext",
   "optionalDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
